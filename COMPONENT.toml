@@ -3,7 +3,7 @@ name = "SigmaOS-hypridle"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hypridle component"
+description = "SigmaOS SigmaOS-hypridle component"
 upstream = []
 
 [contract]
